@@ -1,1 +1,1 @@
-# odin-recipes
+A mock-up website showing recipes and links between them
